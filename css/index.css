@@ -1,0 +1,491 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+.body {
+    background-color: #0B0D17;
+}
+
+.header_section {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 34px;
+    align-items: center;
+    gap: 400px;
+}
+
+.section_div {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+}
+
+.div_p {
+    color: #fff;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.div_a {
+    color: #ffffff;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.div_b {
+    margin-left: 50px;
+    padding: 12px 42px;
+    background-color: #FF6B00;
+    border-radius: 24px;
+    color: #ffffff;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    border: none;
+}
+
+.Royal_X {
+    display: flex;
+    justify-content: center;
+    margin-top: 149px;
+    gap: 60px;
+}
+
+.Royal {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.IELTS {
+    margin-top: 20px;
+    color: #DADADB;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.Xoziroq {
+    margin-top: -65px;
+    margin-left: 30px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.nish {
+    margin-top: 50px;
+}
+
+.Screen {
+    background-image: url(../images/Screen.png);
+    width: 584px;
+    height: 380px;
+    display: flex;
+    justify-content: center;
+}
+
+.filled {
+    margin-top: 141px;
+}
+
+.yordam {
+    margin-top: 62px;
+    font-family: Inter;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    color: #FFF;
+}
+
+.div__sec {
+    display: flex;
+    justify-content: center;
+    margin-top: 128px;
+    gap: 60px;
+}
+
+.sizga {
+    color: #DADADB;
+    margin-top: 16px;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.one {
+    background-image: url(../images/Rectangle\ 2836.png);
+    width: 326px;
+    height: 200px;
+}
+
+.on {
+    background-image: url(../images/Rectangle\ 2837.png);
+    width: 326px;
+    height: 200px;
+}
+
+.onee {
+    background-image: url(../images/Rectangle\ 2839.png);
+    width: 326px;
+    height: 200px;
+    margin-top: 85px;
+}
+
+.onnee {
+    background-image: url(../images/Rectangle\ 2838.png);
+    width: 326px;
+    height: 200px;
+    margin-top: 85px;
+}
+
+.two {
+    margin-left: -200px;
+    color: #FFF;
+    text-align: center;
+    font-family: Lovers Quarrel;
+    font-size: 85.68px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.tw {
+    margin-left: -200px;
+    color: #FFF;
+    text-align: center;
+    font-family: Lovers Quarrel;
+    font-size: 85.68px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.tww {
+    margin-left: -200px;
+    color: #FFF;
+    text-align: center;
+    font-family: Lovers Quarrel;
+    font-size: 85.68px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.twoo {
+    margin-left: -200px;
+    color: #FFF;
+    text-align: center;
+    font-family: Lovers Quarrel;
+    font-size: 85.68px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.Chet {
+    margin-top: 25px;
+    margin-left: 32px;
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.Che {
+    margin-top: 25px;
+    margin-left: 32px;
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.Chhe {
+    margin-top: 25px;
+    margin-left: 32px;
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.Chee {
+    margin-top: 25px;
+    margin-left: 32px;
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.rus {
+    display: flex;
+    justify-content: center;
+    background-color: #1E2130;
+    margin-top: 328px;
+    width: 100%;
+    height: 596px;
+    gap: 30px;
+}
+
+.Miis {
+    margin-top: 148px;
+}
+
+.mis {
+    color: #FFF;
+    font-feature-settings: 'liga' off;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.Durdon {
+    margin-top: 24px;
+    color: #FF6B00;
+    font-feature-settings: 'liga' off;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.ili {
+    color: #FFF;
+    font-feature-settings: 'liga' off;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.Ellip {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin-top: 24px;
+    margin-left: -650px;
+}
+
+.teacher {
+    margin-top: 40px;
+}
+
+.haqimiz {
+    display: flex;
+    justify-content: center;
+    margin-top: 128px;
+    gap: 24px;
+}
+
+.fikri {
+    color: #FFF;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Inter;
+    font-size: 45px;
+    font-style: normal;
+    margin-top: 128px;
+    font-weight: 700;
+}
+
+.dan {
+    color: #DADADB;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    margin-top: 16px;
+}
+
+.ssss {
+    background-image: url(../images/BG.png);
+    width: 588px;
+    height: 564px;
+}
+
+.png {
+    margin-top: 108px;
+    margin-left: 48px;
+}
+
+.smoi {
+    margin-top: -52px;
+    margin-left: 112px;
+    color: #FFF;
+    font-feature-settings: 'liga' off;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.INHA {
+    margin-left: 115px;
+    margin-top: 6px;
+    color: #DADADB;
+    font-feature-settings: 'liga' off;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.yil {
+    margin-top: 22px;
+    margin-left: 48px;
+    color: #DADADB;
+    font-feature-settings: 'liga' off;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.telefon {
+    display: flex;
+    justify-content: center;
+    margin-top: 128px;
+    gap: 18px;
+}
+
+.vaqtda {
+    color: #FFF;
+    margin-top: 100px;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.nnine {
+    background-color: #0B0D17;
+    color: #FF6B00;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 64px;
+}
+
+.qatorida {
+    margin-top: 12px;
+    color: #DADADB;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.yox {
+    color: #FFF;
+    margin-top: 35px;
+    margin-left: -60px;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.angle {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-left: -330px;
+}
+
+.jamoad {
+    background-color: #1D2029;
+    width: 100%;
+    height: 325px;
+    display: flex;
+    justify-content: center;
+    margin-top: 128px;
+    gap: 128px;
+}
+
+.hamaa {
+    color: #FFF;
+    margin-top: 20px;
+    font-family: Manrope;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.haaam {
+    margin-top: 69px;
+}
+
+.kon {
+    margin-top: 64px;
+    color: #FFF;
+    font-feature-settings: 'liga' off;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.hif {
+    margin-top: 16px;
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.hifs {
+    margin-top: 24px;
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.email {
+    display: flex;
+    justify-content: center;
+}
+
+.cation {
+    margin-left: -90px;
+    margin-top: 24px;
+}
+.catio {
+    margin-left: -50px;
+    margin-top: 24px;
+}
+.cati {
+    margin-top: 24px;
+    margin-left: -3px;
+}
